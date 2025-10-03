@@ -6,12 +6,12 @@ Files for the built useeio.js library reside in the src folder. It's written in 
 
 ## Impact Reports
 
-[Javascript reports for the US EPA's 50 state models](https://model.earth/useeio.js/footprint) reside in the [model.earth fork](https://github.com/modelearth/useeio.js) of the useeio.js repo.
+[Javascript reports for the US EPA's 50 state models](https://model.earth/profile/footprint) reside in the [model.earth fork](https://github.com/modelearth/useeio.js) of the useeio.js repo.
 
 
 ## Build Comands
 
-You can edit javascript and visualizations for the [State Impact Reports](https://model.earth/useeio.js/footprint) without running the build commands.
+You can edit javascript and visualizations for the [US State Reports](https://model.earth/profile/footprint) without running the build commands.
 
 When new model versions are published by US EPA every few years, you can build useeio.js and useeio-widgets to deploy updates for the [USEEIO&nbsp;React&nbsp;Widgets](https://model.earth/io/charts/).
 

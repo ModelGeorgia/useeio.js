@@ -1,4 +1,4 @@
-# State Impact Reports
+# US State Reports
 
 View reports via the links to the left. We have a [new chord chart page](chord).
 
@@ -20,16 +20,14 @@ State model json files reside in <a href="https://github.com/ModelEarth/useeio-j
 
 <!--
 We also have a slower python pre-processed report at <a href="/data-pipeline/research/economy/">Python Commodities Report</a>.
--->
- 
-<a href="/io/about/">USEEIO State Models</a> - Includes work on SQL tables for Microsoft Power BI and Tableau
 
 <a href="https://colab.research.google.com/drive/1CYKNTnLiZ_PbP5WS_dMVtYyYDIAFwzq8?usp=sharing" target="useeio_colab">Generate Supabase USEEIO (CoLab)</a> - Upcoming python to migrate for SQL tables
+-->
 
 <a href="/profile/trade/">Exiobase International Trade Flow SQL</a> - Parallel work on international trade reports
 
 
-## US EPA State Data
+## US State Data
 
 [View Feb 2024 State Models Report](https://cfpub.epa.gov/si/si_public_record_Report.cfm?dirEntryId=360453&Lab=CESER) regarding new data files for v1.0 of the USEEIO State Models. 
 
@@ -40,7 +38,7 @@ The 2020 state data resides in [ModelEarth/useeio-json on GitHub](https://github
 TO DO: Create interactive version of the supporting figures [including maps of the U.S.](https://doi.org/10.6084/m9.figshare.c.7041473) showing environmental pressure intensity grouped by indicator and commodity for all states and rankings of sectors by consumption by environmental pressure for 2020.
 
 <!--
-The JSON API that drives our [industry comparisons](/localsite/info/) uses EPA data prepared and presented using useeior (R Language),  [useeio.js](/useeio.js/footprint) and the [useeio-widgets](/io/charts/) (Javascript and HTML using the USEEIO-API).
+The JSON API that drives our [industry comparisons](/localsite/info/) uses EPA data prepared and presented using useeior (R Language),  [useeio.js](/profile/footprint) and the [useeio-widgets](/io/charts/) (Javascript and HTML using the USEEIO-API).
 -->
 
 ### State Models Report

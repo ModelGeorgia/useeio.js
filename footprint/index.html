@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8" />
-  <title>State Impact Reports</title>
+  <title>US State Reports</title>
   <link rel="shortcut icon" href="data:image/x-icon;," type="image/x-icon">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="/localsite/css/base.css" id="/localsite/css/base.css" />
@@ -24,7 +24,7 @@
   <script src="../node_modules/mocha/mocha.js"></script>
   <script src="../node_modules/chai/chai.js"></script>
 
-  <script src="../dist/useeio.js"></script>
+  <script src="js/useeio.js"></script>
 
   <script class="mocha-init">
     var assert = chai.assert;
@@ -44,6 +44,8 @@
   </script>
   -->
 <script>
+window.location="../../profile/state/";
+
 //loadMarkdown("schema.md", "schemaDiv", "_parent");
 //loadText("../../profile/impacts/exiobase/US-source/create-database.yaml", "yamlDiv", "_parent");
 loadMarkdown("../../profile/trade/nav.md", "navDiv", "_parent");
